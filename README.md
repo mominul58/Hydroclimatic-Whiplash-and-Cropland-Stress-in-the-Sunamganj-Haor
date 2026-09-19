@@ -1,5 +1,4 @@
-# Hydroclimatic Whiplash and Cropland Stress in the Sunamganj Haor, 
-Bangladesh
+# Hydroclimatic Whiplash and Cropland Stress in the Sunamganj Haor, Bangladesh
 
 **Abstract:** Hydroclimatic whiplash, a rapid transition from anomalously dry to anomalously wet 
 conditions, has emerged as a climate-risk concept, but its independent agricultural impact remains 
